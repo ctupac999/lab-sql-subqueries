@@ -82,3 +82,8 @@ git push origin master
 
 
 
+Escriba consultas SQL para realizar las siguientes tareas utilizando la base de datos Sakila:
+
+1. Determine la cantidad de copias de la película "El jorobado imposible" que existen en el sistema de inventario.
+2. Enumere todas las películas cuya duración sea mayor que la duración promedio de todas las películas en la base de datos Sakila.
+3. Utilice una subconsulta para mostrar todos los actores que aparecen en la película "Viaje en solitario". 
